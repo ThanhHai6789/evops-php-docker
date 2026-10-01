@@ -13,7 +13,7 @@
 </head>
 <body>
     <div class="card">
-        <h1>🚀 DevOps Intern Project</h1>
+        <h1>I am Thanh Hai DevOps Intern Project</h1>
         <p>Ứng dụng PHP chạy trên <b>Docker Container</b></p>
         <div class="status">Status: Online on Render</div>
         <hr style="margin: 20px 0; border: 0; border-top: 1px solid #eee;">
